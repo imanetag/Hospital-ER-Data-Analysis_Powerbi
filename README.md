@@ -81,4 +81,19 @@ To view and interact with the report:
 3.  **View Online:**
     *   If an online version is available, you can browse the report directly [Here](https://app.powerbi.com/view?r=eyJrIjoiZmM4ZjE3YjgtYjE5Ny00YmU1LTg2YjktYjM5M2Q3YmI2M2Q1IiwidCI6IjI1ZGY2M2FmLTkwY2EtNDU2Mi1hYjY5LTQ1ZTY1M2Q3N2M2YyJ9). (Note: This link is a placeholder based on the original README and should be verified/updated by the user).
 
+## 🤝 Contribution and Support
+
+This project is open to contributions, suggestions, and feedback. If you have ideas for new visualizations, data sources, or improvements to the existing report, please feel free to:
+
+*   **Open an Issue** to report bugs or suggest new features.
+*   **Submit a Pull Request** with your proposed changes.
+
+### Contact
+
+For any questions or professional inquiries, please reach out via [your preferred contact method, e.g., LinkedIn or Email].
+
+---
+
+*Thank you for exploring this Power BI report!*
+
 
