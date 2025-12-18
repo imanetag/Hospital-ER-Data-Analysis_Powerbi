@@ -1,4 +1,4 @@
-# OBaz-DA4U-PowerBI-ReportSample-Emergency-Admissions
+# Hospital-ER-Data-Analysis_Powerbi
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/datavitalyzer/OBaz-DA4U-PowerBI-ReportSample-Emergency-Admissions/blob/main/LICENSE.md)
