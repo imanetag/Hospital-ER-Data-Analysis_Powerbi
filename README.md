@@ -79,7 +79,7 @@ To view and interact with the report:
     *   The Power BI report file (`.pbix`) is not included in this sample, but the underlying data (`Hospital ER.csv`) is provided.
     *   You can recreate the report using the provided data and the visual structure shown in the screenshots.
 3.  **View Online:**
-    *   If an online version is available, you can browse the report directly [Here](https://app.powerbi.com/view?r=eyJrIjoiZmM4ZjE3YjgtYjE5Ny00YmU1LTg2YjktYjM5M2Q3YmI2M2Q1IiwidCI6IjI1ZGY2M2FmLTkwY2EtNDU2Mi1hYjY5LTQ1ZTY1M2Q3N2M2YyJ9). (Note: This link is a placeholder based on the original README and should be verified/updated by the user).
+    *   If an online version is available, you can browse the report directly [Here]([https://app.powerbi.com/view?r=eyJrIjoiZmM4ZjE3YjgtYjE5Ny00YmU1LTg2YjktYjM5M2Q3YmI2M2Q1IiwidCI6IjI1ZGY2M2FmLTkwY2EtNDU2Mi1hYjY5LTQ1ZTY1M2Q3N2M2YyJ9](https://app.powerbi.com/links/SQsXL0Hrvz?ctid=eadede1d-5a71-47a5-be6e-3ed9b1b3863e&pbi_source=linkShare)). (Note: This link is a placeholder based on the original README and should be verified/updated by the user).
 
 ## 🤝 Contribution and Support
 
@@ -90,7 +90,7 @@ This project is open to contributions, suggestions, and feedback. If you have id
 
 ### Contact
 
-For any questions or professional inquiries, please reach out via [your preferred contact method, e.g., LinkedIn or Email].
+For any questions or professional inquiries, please reach out via Email [Taghzoutimane@gmail.com].
 
 ---
 
